@@ -1,2 +1,2 @@
-name = str(input("Please Input your name : "))
-print("Your name is ",name)
+birthdate = int(input("Please Input your birthday : "));
+print("So your birthdate is",birthdate);
